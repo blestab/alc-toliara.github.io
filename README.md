@@ -1,4 +1,4 @@
-# ALC TEAM TOLIARA
+# ALC-TOLIARA
 
 An [Andela Learning Community (ALC)](https://andela.com/alc/) group of [Udacity Alumni](https://udacity.com) and [Google Africa Scholars](https://www.udacity.com/google-africa-scholarships) staying connected through code and collaboration.
 
