@@ -16,7 +16,7 @@ If you would like to participate, follow these steps:
 
 4. Start your own projects here! Let's build some amazing things! We have a large pool of people with lots of different skills. This can be a great way to get even more experience working as a team, as well as get help on ideas that you have! </br>
 
-Open to all suggestions on improve, so let's begin!
+Open to all suggestions to improve the experience, so let's begin!
 
 ## Who We Are
 If you want to follow us and what we are doing, you can reach us around the web by connecting with us.
