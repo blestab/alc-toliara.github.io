@@ -24,3 +24,5 @@ If you want to follow us and what we are doing, you can reach us around the web 
 | Name                | Nanodegree            | Social links                 |
 | :------------------ | :-------------------- | :--------------------------  |
 | Mike Perry Y Attara | [Mobile Web Specialist](https://confirm.udacity.com/CGT5MDVL) | [LinkedIn](https://www.linkedin.com/in/mikeattara) ~ [Twitter](https://twitter.com/mikeattara) ~ [Medium](https://medium.com/@_mikeattara) |
+| :------------------ | :-------------------- | :--------------------------  |
+| Blessed Tabvirwa | [Mobile Web Specialist](https://confirm.udacity.com/FNGRFP6J) | [LinkedIn](https://www.linkedin.com/in/blessedtabvirwa) ~ [Twitter](https://twitter.com/blestab) ~ [Medium](https://medium.com/@btabvirwa) |
